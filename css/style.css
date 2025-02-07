@@ -116,6 +116,7 @@ body{
     border: none;
     font-weight: 700;
     margin-top: 1.2em;
+    cursor: pointer;
 }
 
 /*Productive*/
@@ -248,6 +249,7 @@ body{
     font-family: var(--font2-raleway);
     border-radius: 3px;
     border: none;
+    cursor: pointer;
 }
 
 .footer{
