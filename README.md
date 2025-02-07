@@ -29,7 +29,7 @@ A continuación, muestro el resultado del proyecto en una pantalla de escritorio
 
 ### Enlace
 
-- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://your-live-site-url.com)
+- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://camilo-atb.github.io/fylo-landing-page/)
 
 ## Mi proceso
 
